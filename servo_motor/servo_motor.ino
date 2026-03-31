@@ -1,7 +1,7 @@
 #include <Servo.h>
 Servo s;
 void setup() {
-  s.attach(9);
+  s.attach(10);
 
 }
 
